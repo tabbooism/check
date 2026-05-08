@@ -1,0 +1,12 @@
+{
+  "name": "CheckStudio: AI Mobile Deposit",
+  "description": "An advanced mobile check deposit suite featuring AI-powered MICR extraction, signature verification, and compliance monitoring.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "Computer Vision",
+    "Real-time OCR",
+    "Forgery Detection"
+  ]
+}
